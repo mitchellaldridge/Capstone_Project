@@ -13,6 +13,6 @@ env/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# OS files
+# OS file
 .DS_Store
 Thumbs.db
